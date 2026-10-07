@@ -1,0 +1,34 @@
+tests/data/dashboards/test_cases/dashboard_with_attribute_filter_without_local_identifier_cloud.json
+  s_e14e4fa7cea3d6::t_9e44adb98a92ec 1-102
+tests/test_dashboards.py
+  s_e14e4fa7cea3d6::t_b5ff059ee1b780 36-37
+src/gooddata_legacy2cloud/dashboards/cloud_dashboard.py
+  s_e14e4fa7cea3d6::t_2a6a2c8c87c155 86-87
+  s_e14e4fa7cea3d6::t_4e3a0428169ba5 487
+tests/data/dashboards/test_cases/dashboard_with_attribute_filter_without_local_identifier_legacy.json
+  s_e14e4fa7cea3d6::t_9e44adb98a92ec 1-67
+tests/data/dashboards/test_cases/empty_dashboard_cloud.json
+  s_e14e4fa7cea3d6::t_9e44adb98a92ec 1-27
+tests/data/dashboards/legacy_objects/objects_by_uri.json
+  s_e14e4fa7cea3d6::t_9e44adb98a92ec 1281-1300
+src/gooddata_legacy2cloud/dashboards/filter_context.py
+  s_e14e4fa7cea3d6::t_d47227436ce146 121-124
+tests/data/dashboards/test_cases/empty_dashboard_legacy.json
+  s_e14e4fa7cea3d6::t_9e44adb98a92ec 1-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5c214a15e7a88d24465224a80d76185c1a70b481",
+  "prompts": {},
+  "sessions": {
+    "s_e14e4fa7cea3d6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cd50f510-8c25-43fd-907c-4b311355b013",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Roman Valovic <xvalovic@mendelu.cz>"
+    }
+  }
+}
