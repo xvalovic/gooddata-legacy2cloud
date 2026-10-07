@@ -1,0 +1,50 @@
+tests/test_migrate_metrics_element_cache.py
+  s_e14e4fa7cea3d6::t_f6991c8a3738fc 1-56
+src/gooddata_legacy2cloud/workflows/migrate_metrics.py
+  s_2f985483d24351::t_e1bb265c16efdc 125
+tests/data/dashboards/test_cases/empty_dashboard_cloud.json
+  s_e14e4fa7cea3d6::t_9e44adb98a92ec 1-27
+src/gooddata_legacy2cloud/dashboards/filter_context.py
+  s_e14e4fa7cea3d6::t_d47227436ce146 121-124
+tests/data/dashboards/test_cases/dashboard_with_attribute_filter_without_local_identifier_cloud.json
+  s_e14e4fa7cea3d6::t_9e44adb98a92ec 1-102
+tests/data/dashboards/test_cases/empty_dashboard_legacy.json
+  s_e14e4fa7cea3d6::t_9e44adb98a92ec 1-24
+tests/data/dashboards/legacy_objects/objects_by_uri.json
+  s_e14e4fa7cea3d6::t_9e44adb98a92ec 1281-1300
+tests/test_dashboards.py
+  s_e14e4fa7cea3d6::t_b5ff059ee1b780 36-37
+src/gooddata_legacy2cloud/workflows/migrate_insights.py
+  s_2f985483d24351::t_e1bb265c16efdc 159
+src/gooddata_legacy2cloud/workflows/migrate_dashboards.py
+  s_2f985483d24351::t_e1bb265c16efdc 205
+tests/data/dashboards/test_cases/dashboard_with_attribute_filter_without_local_identifier_legacy.json
+  s_e14e4fa7cea3d6::t_9e44adb98a92ec 1-67
+src/gooddata_legacy2cloud/dashboards/cloud_dashboard.py
+  s_e14e4fa7cea3d6::t_4e3a0428169ba5 487
+  s_e14e4fa7cea3d6::t_2a6a2c8c87c155 86-87
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ba09222eff4db79de8af70f2c09ca69c52bd45b5",
+  "prompts": {},
+  "sessions": {
+    "s_2f985483d24351": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9c88ff55-e86d-4c66-8b85-229cf10339b8",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Roman Valovic <xvalovic@mendelu.cz>"
+    },
+    "s_e14e4fa7cea3d6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cd50f510-8c25-43fd-907c-4b311355b013",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": null
+    }
+  }
+}
