@@ -1,9 +1,12 @@
 src/gooddata_legacy2cloud/workflows/migrate_dashboards.py
   s_e14e4fa7cea3d6::t_0ccdd539909fb6 205
+  s_2f985483d24351::t_e1bb265c16efdc 205
 src/gooddata_legacy2cloud/workflows/migrate_insights.py
   s_e14e4fa7cea3d6::t_1e1e54f2d91c38 159
+  s_2f985483d24351::t_e1bb265c16efdc 159
 src/gooddata_legacy2cloud/workflows/migrate_metrics.py
   s_e14e4fa7cea3d6::t_5ccd02ceaa3673 125
+  s_2f985483d24351::t_e1bb265c16efdc 125
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -11,6 +14,22 @@ src/gooddata_legacy2cloud/workflows/migrate_metrics.py
   "base_commit_sha": "1c987b99d8acebd06a3f43a75ea02211074a5944",
   "prompts": {},
   "sessions": {
+    "s_2f985483d24351": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9c88ff55-e86d-4c66-8b85-229cf10339b8",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Roman Valovic <xvalovic@mendelu.cz>"
+    },
+    "s_b5affb290420cd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a3ae341e-7335-4714-be33-ba15b3f948c3",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Roman Valovic <xvalovic@mendelu.cz>"
+    },
     "s_e14e4fa7cea3d6": {
       "agent_id": {
         "tool": "claude",
