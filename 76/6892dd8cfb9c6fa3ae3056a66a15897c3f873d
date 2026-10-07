@@ -1,0 +1,25 @@
+.python-version
+  s_e14e4fa7cea3d6::t_c117904025a598 1
+src/gooddata_legacy2cloud/workflows/migrate_dashboards.py
+  s_e14e4fa7cea3d6::t_2619add9c2f2d1 205
+src/gooddata_legacy2cloud/workflows/migrate_insights.py
+  s_e14e4fa7cea3d6::t_5833d5d69af44c 159
+src/gooddata_legacy2cloud/workflows/migrate_metrics.py
+  s_e14e4fa7cea3d6::t_09e8be95ada125 125
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "766892dd8cfb9c6fa3ae3056a66a15897c3f873d",
+  "prompts": {},
+  "sessions": {
+    "s_e14e4fa7cea3d6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cd50f510-8c25-43fd-907c-4b311355b013",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Roman Valovic <xvalovic@mendelu.cz>"
+    }
+  }
+}
