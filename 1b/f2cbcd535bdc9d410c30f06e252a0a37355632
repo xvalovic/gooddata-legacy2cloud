@@ -1,0 +1,84 @@
+tests/data/metrics/test_cases/computed_attribute_cloud.json
+  s_8e4dcdbc203f51::t_063de3ecc9160a 1-19
+src/gooddata_legacy2cloud/metrics/computed_attribute.py
+  s_8e4dcdbc203f51::t_d5370248786aaa 1-20,22-75,77-119
+  s_8e4dcdbc203f51::t_668b5982a80bec 21,76
+tests/data/metrics/test_cases/with_computed_attribute_cloud.json
+  s_8e4dcdbc203f51::t_063de3ecc9160a 1-17
+src/gooddata_legacy2cloud/constants.py
+  s_8e4dcdbc203f51::t_d5370248786aaa 13
+tests/data/metrics/test_cases/with_computed_attribute_legacy.json
+  s_8e4dcdbc203f51::t_063de3ecc9160a 1-63
+tests/test_metrics.py
+  s_8e4dcdbc203f51::t_063de3ecc9160a 28
+tests/data/metrics/legacy_objects/objects_by_uri.json
+  s_8e4dcdbc203f51::t_063de3ecc9160a 373-384
+  s_8e4dcdbc203f51::t_1973e0f4685b07 385-392
+tests/data/metrics/legacy_objects/computed_attribute.json
+  s_8e4dcdbc203f51::t_063de3ecc9160a 1-56
+src/gooddata_legacy2cloud/helpers.py
+  s_8e4dcdbc203f51::t_7bfa215c9248db 173-190
+src/gooddata_legacy2cloud/backends/cloud/client.py
+  s_8e4dcdbc203f51::t_d5370248786aaa 260-281
+src/gooddata_legacy2cloud/id_mappings.py
+  s_8e4dcdbc203f51::t_9bbb5e4d9305dd 81
+  s_8e4dcdbc203f51::t_7bfa215c9248db 11-15,79-80
+tests/data/metrics/mapping_files/metric_mappings.csv
+  s_8e4dcdbc203f51::t_063de3ecc9160a 2
+src/gooddata_legacy2cloud/insights/cloud_insight.py
+  s_8e4dcdbc203f51::t_b22a7474aeb58e 11-15
+  s_8e4dcdbc203f51::t_7bfa215c9248db 148-151
+src/gooddata_legacy2cloud/workflows/migrate_metrics.py
+  s_8e4dcdbc203f51::t_d5370248786aaa 20,37-40,48-49,151,172-173,177,180-199,207-232
+  s_8e4dcdbc203f51::t_29deb01701c80c 233-234
+src/gooddata_legacy2cloud/dashboards/drill_converter.py
+  s_8e4dcdbc203f51::t_9345da0b50c4fe 14
+  s_8e4dcdbc203f51::t_7bfa215c9248db 65
+src/gooddata_legacy2cloud/metrics/data_classes.py
+  s_8e4dcdbc203f51::t_d5370248786aaa 23
+tests/data/insights/test_cases/with_computed_attribute_legacy.json
+  s_8e4dcdbc203f51::t_063de3ecc9160a 1-63
+tests/data/metrics/test_cases/with_unresolved_identifier_legacy.json
+  s_8e4dcdbc203f51::t_063de3ecc9160a 24,42
+tests/data/insights/test_cases/with_computed_attribute_cloud.json
+  s_8e4dcdbc203f51::t_063de3ecc9160a 1-69
+tests/data/insights/legacy_objects/objects_by_uri.json
+  s_8e4dcdbc203f51::t_063de3ecc9160a 527-532
+  s_8e4dcdbc203f51::t_8774f28f522bd5 520-526,533-564
+tests/data/shared/mapping_files/ldm_mappings.csv
+  s_8e4dcdbc203f51::t_063de3ecc9160a 106
+tests/test_computed_attributes.py
+  s_8e4dcdbc203f51::t_6634f2b6d53dee 1-56
+README.md
+  s_8e4dcdbc203f51::t_e466dbe8c2402e 395
+  s_8e4dcdbc203f51::t_6634f2b6d53dee 380-382,388-394
+tests/data/metrics/test_cases/with_unresolved_identifier_cloud.json
+  s_8e4dcdbc203f51::t_063de3ecc9160a 8-10,14
+src/gooddata_legacy2cloud/metrics/maql/content_tree_modifier.py
+  s_8e4dcdbc203f51::t_7bfa215c9248db 305,307-310
+  s_8e4dcdbc203f51::t_b22a7474aeb58e 5
+tests/test_insights.py
+  s_8e4dcdbc203f51::t_063de3ecc9160a 23
+src/gooddata_legacy2cloud/dashboards/filter_context.py
+  s_8e4dcdbc203f51::t_7bfa215c9248db 31-34,40-42
+  s_8e4dcdbc203f51::t_b22a7474aeb58e 5
+src/gooddata_legacy2cloud/backends/cloud/object_creator_strategy.py
+  s_8e4dcdbc203f51::t_1bc10675f9795c 494-495
+  s_8e4dcdbc203f51::t_d5370248786aaa 30-31,152-173,490-493
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1bf2cbcd535bdc9d410c30f06e252a0a37355632",
+  "prompts": {},
+  "sessions": {
+    "s_8e4dcdbc203f51": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8b5e7ba9-f923-4bff-9168-520de0f4ae6a",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Roman Valovic <xvalovic@mendelu.cz>"
+    }
+  }
+}
