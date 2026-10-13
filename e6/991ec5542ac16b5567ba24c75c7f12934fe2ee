@@ -1,0 +1,50 @@
+tests/test_layout_manager.py
+  s_8e4dcdbc203f51::t_ec4bf00f559288 1-74
+  s_8e4dcdbc203f51::t_b6a9d727178a6a 75-76
+src/gooddata_legacy2cloud/dashboard_permissions/permissions_updater.py
+  s_8e4dcdbc203f51::t_363e6326890cdf 8,51-52,65-68,71-72,76-77,83-84,132-135,137,333-345,348-389,415-416,449,451
+src/gooddata_legacy2cloud/dashboard_permissions/data_classes.py
+  s_8e4dcdbc203f51::t_363e6326890cdf 39,71-72
+README.md
+  s_8e4dcdbc203f51::t_ec4bf00f559288 575,602-605,643-645
+src/gooddata_legacy2cloud/insights/cloud_insight.py
+  s_2925daaef86187::t_070066e85cf30e 361-362,366-369
+  s_2925daaef86187::t_b70ac47f530fb6 14
+src/gooddata_legacy2cloud/arg_parsing/arg_parser.py
+  s_8e4dcdbc203f51::t_363e6326890cdf 651-662
+src/gooddata_legacy2cloud/config/configuration_objects.py
+  s_8e4dcdbc203f51::t_363e6326890cdf 65-73,76-83
+src/gooddata_legacy2cloud/dashboard_permissions/change_formatter.py
+  s_8e4dcdbc203f51::t_363e6326890cdf 18-21,25-26
+src/gooddata_legacy2cloud/layout/layout_manager.py
+  s_8e4dcdbc203f51::t_363e6326890cdf 14-19,55-57,75-87,89-103,106-107,109,121,125,127-128,130,132,138-140
+src/gooddata_legacy2cloud/user_management/legacy_users.py
+  s_8e4dcdbc203f51::t_363e6326890cdf 34-35
+src/gooddata_legacy2cloud/workflows/migrate_dashboard_permissions.py
+  s_8e4dcdbc203f51::t_ec4bf00f559288 178,233
+  s_8e4dcdbc203f51::t_363e6326890cdf 137-147,153-154,161-162,181,193,236,245,248,328-344,346-353,356,358,367
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e6991ec5542ac16b5567ba24c75c7f12934fe2ee",
+  "prompts": {},
+  "sessions": {
+    "s_2925daaef86187": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b090d218-4dab-47d3-bb03-8db8157ceba8",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Roman Valovic <xvalovic@mendelu.cz>"
+    },
+    "s_8e4dcdbc203f51": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8b5e7ba9-f923-4bff-9168-520de0f4ae6a",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Roman Valovic <xvalovic@mendelu.cz>"
+    }
+  }
+}
