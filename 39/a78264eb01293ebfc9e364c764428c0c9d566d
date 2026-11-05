@@ -1,0 +1,29 @@
+tests/data/ldm/test_cases/basic_ldm_cloud.json
+  s_16e960ccb6d10d::t_5f66bb6f507b60 8,31,42,55,65,101,114,124,187,200,263,274,285,296
+src/gooddata_legacy2cloud/ldm/tag_provider.py
+  s_16e960ccb6d10d::t_11e32e530724b1 9-10,15-18,20-24,26,32-33,35,49-54
+src/gooddata_legacy2cloud/ldm/fact_builder.py
+  s_16e960ccb6d10d::t_d82e92b25d8da1 59
+src/gooddata_legacy2cloud/ldm/attribute_builder.py
+  s_16e960ccb6d10d::t_d82e92b25d8da1 130-132
+tests/data/ldm/legacy_objects/attributes.json
+  s_16e960ccb6d10d::t_0ce038df6439b8 49
+tests/data/ldm/legacy_objects/facts.json
+  s_16e960ccb6d10d::t_0ce038df6439b8 15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "39a78264eb01293ebfc9e364c764428c0c9d566d",
+  "prompts": {},
+  "sessions": {
+    "s_16e960ccb6d10d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "945c68f1-6bd2-4cfb-9c52-0b70e54854f4",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Roman Valovic <xvalovic@mendelu.cz>"
+    }
+  }
+}
