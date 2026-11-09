@@ -1,0 +1,21 @@
+src/gooddata_legacy2cloud/backends/cloud/client.py
+  s_5dc3abd9eabc4d::t_c591591adb7dd0 273-277,279-307
+tests/test_cloud_client_computed_attributes.py
+  s_5dc3abd9eabc4d::t_6e71032ede7c78 1-53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "da03b30a7caf3b89686a072694501642e81ac7a0",
+  "prompts": {},
+  "sessions": {
+    "s_5dc3abd9eabc4d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02b8c0fe-d596-4b2a-9c07-4b3cbcf54119",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Roman Valovic <xvalovic@mendelu.cz>"
+    }
+  }
+}
