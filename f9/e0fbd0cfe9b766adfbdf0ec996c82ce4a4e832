@@ -1,0 +1,28 @@
+tests/test_migrate_metrics_ca_permissions.py
+  s_843ea6e8a8fb15::t_cdec1d36a3462a 1-37
+tests/test_cloud_client_computed_attributes.py
+  s_843ea6e8a8fb15::t_cdec1d36a3462a 3-4,9-10,24-31,34-40,46-49,51,54-56,58-60,63,65
+README.md
+  s_843ea6e8a8fb15::t_cdec1d36a3462a 382,394
+src/gooddata_legacy2cloud/backends/cloud/client.py
+  s_843ea6e8a8fb15::t_cdec1d36a3462a 273,275,277-282,284-285,294-299,301-303,307-324,531,537-539
+src/gooddata_legacy2cloud/workflows/migrate_metrics.py
+  s_843ea6e8a8fb15::t_cdec1d36a3462a 53,193,199-201,211-235
+  s_843ea6e8a8fb15::t_6b4f4693293fb6 236-237
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f9e0fbd0cfe9b766adfbdf0ec996c82ce4a4e832",
+  "prompts": {},
+  "sessions": {
+    "s_843ea6e8a8fb15": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1834cbe7-991f-4ba2-869a-24be9a62cbee",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Roman Valovic <xvalovic@mendelu.cz>"
+    }
+  }
+}
